@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Muhammad Khallaf/Muhammad Khallaf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Muhammad941993/Muhammad941993/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -54,7 +54,7 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad Khallaf/Muhammad Khallaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad941993/Muhammad941993/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad Khallaf/Muhammad Khallaf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammad Khallaf/Muhammad Khallaf/output/pacman-contribution-graph.svg">
 </picture>
